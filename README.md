@@ -1,4 +1,4 @@
-# Traffic Signs Classifier
+# Traffic Signs Recognition
 
 > <Subtitle>
 
