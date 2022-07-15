@@ -3,8 +3,7 @@
 > <Subtitle>
 
 > An ML project to aid Autonumous Driving.
-
-> Check the <a href="https://github.com/sanjanadoss/trafic-sign-classification/blob/main/Traffic_Sign_Classifier.ipynb"> project </a>
+Check the <a href="https://github.com/sanjanadoss/trafic-sign-classification/blob/main/Traffic_Sign_Classifier.ipynb"> project </a>
 
 
 ## Autonmous Vehicles:
