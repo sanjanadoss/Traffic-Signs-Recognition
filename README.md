@@ -1,8 +1,8 @@
-# trafic-sign-classification
+# Traffic Signs Classifier
 
 > <Subtitle>
 
-> xyz
+> An ML project to aid Autonumous Driving.
 
 
 ## Screenshot
